@@ -1,0 +1,24 @@
+email: www.shanvi@rediffmail.com
+
+projects:
+- {name: Smart Home, folder: 'proj-1'}
+- {name: Line Following Robot, folder: 'proj-2'}
+- {name: Mobile Robot, folder: 'proj-3'}
+- {name: Obstacle Avoider, folder: 'proj-4'}
+- {name: In Progress, folder: 'proj-5'}
+- {name: In Progress, folder: 'proj-6'}
+
+
+clients:
+- {avatar: 'image-1.png', logo: 'logo1.png', name: 'Danielle Stewart', title: 'Director of Design, FitBit', quote: '<p><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>'}
+- {avatar: 'image-2.png', logo: 'logo2.png', name: 'Vanessa Schumer', title: 'CEO, Medium INC.', quote: '<p><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>'}
+- {avatar: 'image-3.png', logo: 'logo3.png', name: 'Evie Frye', title: 'HR, Valve', quote: '<p><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>'}
+- {avatar: 'image-4.png', logo: 'logo4.png', name: 'Katie Price', title: 'Director of Design, Virgin Tech', quote: '<p><strong>Lorem ipsum dolor sit amet,</strong> consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>'}
+
+
+social:
+- {icon: 'facebook-logo' , link: 'https://www.google.com'}
+- {icon: 'google-plus-social-logotype' , link: 'https://www.google.com'}
+- {icon: 'instagram-social-network-logo-of-photo-camera' , link: 'https://www.facebook.com'}
+- {icon: 'linkedin-logo' , link: 'https://www.github.com'}
+- {icon: 'twitter-social-logotype' , link: '#'}

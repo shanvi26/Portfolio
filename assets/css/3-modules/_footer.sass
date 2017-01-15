@@ -1,0 +1,39 @@
+.footer
+  +clearfix
+  height: auto
+  background-color: #263238
+  padding: 15px
+  color: white
+  .Bunker
+    float: left
+    width: 33%
+  .Links
+    display: inline-block
+    width: 33%
+  .Copyright
+    width: 33%
+    float: right
+  a
+    color: whitesmoke
+
+  h4
+    color: lighten($accent, 50%)
+
+
+  @media(max-width: 750px)
+    h4
+      margin: 10px
+    .Bunker
+      float: none
+      display: block
+      .details
+        max-width: 100%
+
+    .Links
+      float: none
+      display: block
+    .Copyright
+      float: none
+
+    .footer
+      max-height: 200px

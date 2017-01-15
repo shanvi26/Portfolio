@@ -1,0 +1,17 @@
+<section class="section-contact">
+  <h3 class="help">I Can Help.</h3>
+  <h4 class="help-title"> I'm looking for an internship</h4>
+  <p>If you have a project that you want to get started, think you need my help with something or just fancy saying hey, then get in touch.</p>
+
+  <h3 id="contact">Contact</h3>
+
+  <div class="social-links">
+    {% for link in site.data.settings.social %}
+      <a href="{{ link.link }}" class="flaticon-{{ link.icon }}"></a>
+    {% endfor %}
+  </div>
+
+  <hr class="bar">
+
+  <a class="biglink" href="mailto:{{site.data.settings.email}}">{{site.data.settings.email}}</a>
+</section>
